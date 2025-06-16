@@ -1,0 +1,7 @@
+RT_min,Compound,Base_Peak_mz,Key_Fragments,Sample_A_Stems,Sample_B_Seeds,Intensity_A_Normalized,Intensity_B_Normalized,MW_Category,Compound_Class
+6.45,Saponins,457,"[439, 411, 343]",7.84,7.69,44.92836676217765,59.24499229583975,Very High MW,Glycosides
+8.89,Tannins,333,"[171, 127, 83]",4.56,5.47,26.131805157593124,42.14175654853621,High MW,Polyphenols
+11.62,Flavonoids,289,"[155, 137, 109]",3.92,9.41,22.464183381088827,72.49614791987673,Medium MW,Polyphenols
+13.95,Alkaloids,300,"[282, 226, 138]",2.87,3.11,16.446991404011463,23.959938366718024,Medium MW,Nitrogen Compounds
+16.73,Terpenoids,411,"[393, 315, 207]",17.45,12.98,100.0,100.0,Very High MW,Terpenes
+19.21,Coumarins,179,"[151, 123, 95]",1.92,5.63,11.002865329512893,43.37442218798151,Low MW,Phenolic Compounds
